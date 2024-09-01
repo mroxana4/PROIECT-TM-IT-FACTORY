@@ -226,7 +226,7 @@ The Monitoring and Control stage is a critical part of project management and so
 ![image](https://github.com/user-attachments/assets/a6f63ae8-0062-4d0c-9ace-680fd06ae73a)
 
   
-![image](https://github.com/user-attachments/assets/4745bbcb-0b23-4637-93fb-9e35970075c0)
+
 
 
 
@@ -240,7 +240,7 @@ The testing process will be executed based on the application requirements. <b>(
 
 The following test conditions were found: <br>
 
-**(aici puteti fie sa puneti o poza din jira cu titlurile tuturor testelor - din issues filtrare dupa type test sau sa scrieti cu bulinuta numele fiecarei conditii de testare pe care ati identificat-o)**
+
 
 
 
@@ -262,33 +262,9 @@ Functional test cases were created in Zephyr Squad based on the analysis of the 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <h3>1.5 Test Implementation</h3>
 
 The following elements are needed to be ready before the test execution phase begins:
-
-**(inserati lista de elemente care sunt evaluate in etapa de implementare)**
-
-
-
-
-
-
-
-
 
 
 
@@ -343,17 +319,18 @@ Full regression testing is needed on the impacted areas after the bugs are fixed
 <h3> 1.7 Test Completion</h3>
 As the Exit criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team
 
-The traceability matrix was generated and can be found here: **(inserati aici fie o poza cu matricea de trasabilitate din jira, fie linkul catre fiserul excel exportat din jira cu matricea de trasabilitate. Nu uitati sa faceti filtrare dupa type = story)**
+The traceability matrix was generated and can be found here: 
+
+![image](https://github.com/user-attachments/assets/4745bbcb-0b23-4637-93fb-9e35970075c0)
+
+
+
+
 
 Test execution chart was generated and can be found below. 
 
 **(inserati aici raportul de executie generat din jira din sectiunea de dashboards)**
 
-The final report shows that a number **(inserati numarul de teste)** tests have failed of a total of **(inserati numarul de teste)**
-
-A number of **(inserati numarul de bug-uri)** total bugs were found, from which the priority is: **(inserati numarul de bug-uri)** are high and **(inserati numarul de bug-uri)** are medium.
-
-**(inserati aici o concluzie generala a testarii care sa cuprinda cate teste au fost create si executate, ce procentaj aproximativ din cerintele in scop a
 
 
 
@@ -362,23 +339,10 @@ A number of **(inserati numarul de bug-uri)** total bugs were found, from which 
 
 
 
-
-
-
-
-
-
-TEST:
+ Conclusions:
 12 tests were created and executed to validate the new functionalities.
 All planned functionalities were successfully tested.
-Two bugs were identified, of which one has been resolved, and one awaits further resolution.
-
-
-
-
-
-
-
+A number of 3 total bugs were found, from which the priority for all of them-  medium.
 
 
 
@@ -390,15 +354,4 @@ Identify and prioritize high-risk areas of the website (e.g., payment processing
 
 
 Regularly review test results, analyze trends, and adjust the testing strategy as needed. Use metrics like defect density, test coverage, and pass/fail rates to measure progress and identify areas for improvement.
-
-
-
-
-
-
-
-
-
-
-
 
