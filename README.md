@@ -5,7 +5,6 @@
 __The scope of the final project for ITF Manual Testing Course is to use all gained knowledge throught the course and apply them in practice, using a live application__
 
 
-
 Tools used: __Jira, Zephyr Squad__
 
 Application under test:  https://www.ottobroker.ro/
@@ -15,11 +14,6 @@ Application under test:  https://www.ottobroker.ro/
 
 The below stories "My insurance" and "Claim"  was created in Jira.
 ![image](https://github.com/user-attachments/assets/19fd4d99-960e-411c-ac75-21a1e5c46b3f)
-
-
-
-Here you can find the release that was created for this project:
-
 
 
 
@@ -33,7 +27,7 @@ The test process was performed based on the standard test process as described b
 
 The Test Plan is designed to describe all details of testing for all the modules from the JPetStore Demo application.
 
-The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan. The test plan that was created for this project can be found here **
+The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan. 
 
 
 
@@ -118,7 +112,7 @@ Tests in Scope:
 
  - Test the "My Insurance" section across different browsers (Chrome, Firefox, Safari, Edge) and devices (desktop, tablet, mobile).
  - Ensure consistent behavior and appearance across various platforms.
- - 
+   
 **User Acceptance Testing:**
 
 - Validate that the "My Insurance" section meets user expectations and provides a seamless user experience.
@@ -222,9 +216,19 @@ The entry criteria defined in the Test Planning phase have been achieved and the
 
 
 <h3>1.2 Test Monitoring and Control<h3>
+The Monitoring and Control stage is a critical part of project management and software testing. It is performed to ensure that the project stays on track, meets its goals, and delivers the expected outcomes. 
+
+
+![image](https://github.com/user-attachments/assets/021ce676-5dee-4324-bcf5-3b163c6faf29)
+
+![image](https://github.com/user-attachments/assets/310de291-cd91-4778-bc0a-761f4cbc862e)
+
+![image](https://github.com/user-attachments/assets/a6f63ae8-0062-4d0c-9ace-680fd06ae73a)
+
+  
 ![image](https://github.com/user-attachments/assets/4745bbcb-0b23-4637-93fb-9e35970075c0)
 
-![image](https://github.com/user-attachments/assets/ac718d56-a9e9-4920-941b-de5303532c12)
+
 
 
 ![image](https://github.com/user-attachments/assets/d14a6665-cd9b-471e-8613-ebd01550d525)
