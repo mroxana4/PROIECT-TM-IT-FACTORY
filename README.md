@@ -192,10 +192,26 @@ Tests not in Scope:
 <h4>1.1.5 Risks detected</h4>
 
 <h5>Project risks:</h5>
+1. Limited Testing Time:Time constraints may limit the depth and breadth of manual testing, forcing the team to prioritize certain features over others.
+
+2. Lack of Test Documentation: Inadequate or inconsistent test documentation can result in missed test cases, difficulty in reproducing bugs, and challenges in knowledge transfer.
+   
+3. Tester Skill Variability:Variations in tester experience and skill levels can result in inconsistent test execution and issue detection, especially in complex areas like insurance policy management or claims processing.
+
+
+4. Changing Requirements:Requirements for the website may change during the testing phase, causing confusion and necessitating re-testing of previously validated features.
+
+
+5. Dependency on Third-Party Systems:The website's integration with external systems (e.g., insurance provider APIs, payment gateways) might face issues outside the control of the testing team.
 
 
 
 <h5> Product risks: </h5>
+1. Incomplete Functionality Coverage: Certain functionalities of the Otto Broker website, such as niche features within the "Asigurările Mele" and "Dauna" sections, might not be thoroughly tested due to oversight or limited time.
+
+2. Data Integrity Issues: Manual testing might overlook scenarios where data is incorrectly saved, displayed, or updated, especially in complex transactions like adding a new policy or processing a claim.
+   
+3. Performance Issues Under Load: Manual testing is often limited in its ability to simulate high traffic or peak usage conditions, potentially missing performance bottlenecks.
 
 
 
@@ -207,18 +223,132 @@ The entry criteria defined in the Test Planning phase have been achieved and the
 <h3>1.2 Test Monitoring and Control<h3>
 ![image](https://github.com/user-attachments/assets/4745bbcb-0b23-4637-93fb-9e35970075c0)
 
+![image](https://github.com/user-attachments/assets/ac718d56-a9e9-4920-941b-de5303532c12)
+
 
 ![image](https://github.com/user-attachments/assets/d14a6665-cd9b-471e-8613-ebd01550d525)
 
 
 <h3> 1.3 Test Analysis </h3> 
 
+The testing process will be executed based on the application requirements. <b>(The requirements analysis has been done in order to implement the <i>early testing</i> test principle and the results can be found here - inserati linkul catre documentul de review. Parte asta specificata intre paranteze o puneti doar daca aveti cerinte si daca ati facut review)</b>. <br><br>
+
+The following test conditions were found: <br>
+
+**(aici puteti fie sa puneti o poza din jira cu titlurile tuturor testelor - din issues filtrare dupa type test sau sa scrieti cu bulinuta numele fiecarei conditii de testare pe care ati identificat-o)**
 
 
 
 
 
 
+
+
+
+
+
+
+<h3>1.4 Test Design</h3>
+
+Functional test cases were created in Zephyr Squad based on the analysis of the specifications. The test cases can be accessed here **(inserati linkul catre fisierul cu testele, in format pdf, word sau csv)**
+
+![image](https://github.com/user-attachments/assets/b20a155d-0df5-4e70-b503-35157ebe0d29)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h3>1.5 Test Implementation</h3>
+
+The following elements are needed to be ready before the test execution phase begins:
+
+**(inserati lista de elemente care sunt evaluate in etapa de implementare)**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h3>1.6. Test Execution </h3>
+
+Test cases are executed on the created test Cycle summary: **My insurance and Claim**
+
+Bugs have been created based on the failed tests. The complete bug reports can be found here: **(inserati aici fisierul cu bug-urile pe care le-ati identificat)**
+
+The following is a summary of the bugs that have been found
+
+
+
+![image](https://github.com/user-attachments/assets/1fb43b42-ae99-41f5-858c-0bc54a08c849)
+
+![image](https://github.com/user-attachments/assets/43a68aef-a5a5-4a68-9f77-06f45ade869b)
+
+![image](https://github.com/user-attachments/assets/b9fd7410-da34-4a28-bcc4-301fa970115c)
+
+
+
+
+Full regression testing is needed on the impacted areas after the bugs are fixed and retesting will be done for every functionality that was previously failed.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<h3> 1.7 Test Completion</h3>
+As the Exit criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team
+
+The traceability matrix was generated and can be found here: **(inserati aici fie o poza cu matricea de trasabilitate din jira, fie linkul catre fiserul excel exportat din jira cu matricea de trasabilitate. Nu uitati sa faceti filtrare dupa type = story)**
+
+Test execution chart was generated and can be found below. 
+
+**(inserati aici raportul de executie generat din jira din sectiunea de dashboards)**
+
+The final report shows that a number **(inserati numarul de teste)** tests have failed of a total of **(inserati numarul de teste)**
+
+A number of **(inserati numarul de bug-uri)** total bugs were found, from which the priority is: **(inserati numarul de bug-uri)** are high and **(inserati numarul de bug-uri)** are medium.
+
+**(inserati aici o concluzie generala a testarii care sa cuprinda cate teste au fost create si executate, ce procentaj aproximativ din cerintele in scop a
 
 
 
