@@ -96,7 +96,7 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 <h4> 1.1.4 Test scope</h4>
 
-1. My Insurance Section:
+__1. My Insurance Section:__
 Tests in Scope:
 
 **Functionality Testing**:
@@ -143,14 +143,75 @@ Tests not in Scope:
 
 
 
-1. Claim Section:
+__2. Claim Section:__
 Tests in Scope:
 
+**Functionality Testing:**
+
+- Verify that users can report a new claim and track the status of existing claims.
+- Test the upload and management of documents related to claims.
+- Ensure proper functioning of notifications and updates related to claim status.
+  
+**User Interface Testing:**
+
+- Check that the "Claim" section is visually consistent and fully operational across different browsers and devices.
+- Verify the correct display of claim details, progress tracking, and document attachments.
+  
+**Integration Testing:**
+
+- Ensure seamless integration with external systems, such as insurance partners and repair shops.
+- Validate data flow between the Otto Broker system and third-party services used for claims processing.
+
+  
+**User Acceptance Testing:**
+
+- Validate that the "Claim" section aligns with user expectations, particularly in ease of use and accuracy of claim management features.
+
+
+
+
+Tests not in Scope:
+
+**Performance Testing:**
+
+- Advanced performance testing, such as load and stress testing, beyond the basic scope.
+  
+**Security Testing:**
+
+- Security assessments, including penetration testing, are not included in this testing phase.
+
+
+**Unit Testing:**
+
+- Unit tests for individual components or modules are excluded from the manual testing process.
 
 
 
 
 
+<h4>1.1.5 Risks detected</h4>
+
+<h5>Project risks:</h5>
+
+
+
+<h5> Product risks: </h5>
+
+
+
+
+<h4>1.1.6 Evaluating entry criteria</h4>
+The entry criteria defined in the Test Planning phase have been achieved and the test process can continue.
+
+
+<h3>1.2 Test Monitoring and Control<h3>
+![image](https://github.com/user-attachments/assets/4745bbcb-0b23-4637-93fb-9e35970075c0)
+
+
+![image](https://github.com/user-attachments/assets/d14a6665-cd9b-471e-8613-ebd01550d525)
+
+
+<h3> 1.3 Test Analysis </h3> 
 
 
 
