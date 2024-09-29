@@ -39,8 +39,8 @@ The plan identifies the items to be tested, the features to be tested, the types
 | Product Manager            | Ioana Popescu             |
 | Business Analyst           | Maria Andrei                  |
 | UX/UI Designer             | Tudor Petrisor                |
-| Software Developer (Frontend) | Raluca Adamuta               |
-| Software Developer (Backend)  | Roxana Ticusan             |
+| Software Developer (Frontend) | Raluca Adam               |
+| Software Developer (Backend)  | Roxana Tiberiu             |
 | Quality Assurance Tester   | Roxana Martin                 |
 | Database Administrator     | Razvan Ionut                   |
 | System Architect           | Daniela Ioja                 |
@@ -229,8 +229,7 @@ The Monitoring and Control stage is a critical part of project management and so
 
 <h3> 1.3 Test Analysis </h3> 
 
-The testing process will be executed based on the application requirements. <b>(The requirements analysis has been done in order to implement the <i>early testing</i> test principle and the results can be found here - inserati linkul catre documentul de review. Parte asta specificata intre paranteze o puneti doar daca aveti cerinte si daca ati facut review)</b>. <br><br>
-
+The testing process will be executed based on the application requirements. 
 test conditions: 
 ![image](https://github.com/user-attachments/assets/b54108e1-9851-42d6-a23c-b952efdadec3)
 
@@ -315,8 +314,8 @@ As the Exit criteria were met and satisfied as mentioned in the appropriate sect
 
 The traceability matrix was generated and can be found here: 
 
+![image](https://github.com/user-attachments/assets/521d036c-1638-41d3-a510-52145f54a8be)
 
-![image](https://github.com/user-attachments/assets/e3bcc75a-d41e-4bc3-96e6-4592c6e8dd58)
 
 
 
