@@ -52,19 +52,12 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 <h4> 1.1.2 Entry criteria defined </h4>
 
-1.Availability of Project Requirements:
+Availability of Project Requirements:
 
 - All functional and non-functional requirements for the "My Insurance" and "Claim" sections have been documented and approved.
 - Documentation regarding user flows, use cases, and test cases has been completed.
 
-2.Completion of Functional Development:
 
-- The functionalities for "My Insurance" and "Claim" have been fully developed and have passed internal reviews.
-- Developers have delivered a stable version of the application in the test environment.
-
-3.Access to Test Data:
-
-- Predefined test scenarios covering common and edge cases are in place.
 
   
 
@@ -238,7 +231,9 @@ The Monitoring and Control stage is a critical part of project management and so
 
 The testing process will be executed based on the application requirements. <b>(The requirements analysis has been done in order to implement the <i>early testing</i> test principle and the results can be found here - inserati linkul catre documentul de review. Parte asta specificata intre paranteze o puneti doar daca aveti cerinte si daca ati facut review)</b>. <br><br>
 
-The following test conditions were found: <br>
+test conditions: 
+![image](https://github.com/user-attachments/assets/b54108e1-9851-42d6-a23c-b952efdadec3)
+
 
 
 
@@ -255,8 +250,7 @@ The following test conditions were found: <br>
 
 <h3>1.4 Test Design</h3>
 
-Functional test cases were created in Zephyr Squad based on the analysis of the specifications. The test cases can be accessed here **(inserati linkul catre fisierul cu testele, in format pdf, word sau csv)**
-
+Functional test cases were created in Zephyr Squad based on the analysis of the specifications. The test cases can be accessed here 
 ![image](https://github.com/user-attachments/assets/b20a155d-0df5-4e70-b503-35157ebe0d29)
 
 
@@ -275,7 +269,7 @@ The following elements are needed to be ready before the test execution phase be
 
 Test cases are executed on the created test Cycle summary: **My insurance and Claim**
 
-Bugs have been created based on the failed tests. The complete bug reports can be found here: **(inserati aici fisierul cu bug-urile pe care le-ati identificat)**
+
 
 The following is a summary of the bugs that have been found
 
@@ -321,7 +315,8 @@ As the Exit criteria were met and satisfied as mentioned in the appropriate sect
 
 The traceability matrix was generated and can be found here: 
 
-![image](https://github.com/user-attachments/assets/4745bbcb-0b23-4637-93fb-9e35970075c0)
+
+![image](https://github.com/user-attachments/assets/e3bcc75a-d41e-4bc3-96e6-4592c6e8dd58)
 
 
 
@@ -329,10 +324,11 @@ The traceability matrix was generated and can be found here:
 
 Test execution chart was generated and can be found below. 
 
-**(inserati aici raportul de executie generat din jira din sectiunea de dashboards)**
 
 
 
+
+![image](https://github.com/user-attachments/assets/43e3ad12-a6f9-4691-b60f-74910c628e6b)
 
 
 
