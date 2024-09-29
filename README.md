@@ -250,7 +250,11 @@ test conditions:
 <h3>1.4 Test Design</h3>
 
 Functional test cases were created in Zephyr Squad based on the analysis of the specifications. The test cases can be accessed here 
-![image](https://github.com/user-attachments/assets/b20a155d-0df5-4e70-b503-35157ebe0d29)
+
+![image](https://github.com/user-attachments/assets/ed232c4d-96a9-4111-9a10-422e0e16b904)
+![image](https://github.com/user-attachments/assets/b012da5b-a6a7-4694-af57-a05bd52ee838)
+
+
 
 
 
@@ -270,15 +274,13 @@ Test cases are executed on the created test Cycle summary: **My insurance and Cl
 
 
 
-The following is a summary of the bugs that have been found
+The following is a summary of the bugs that have been found:
+
+![image](https://github.com/user-attachments/assets/1d4bfa45-d435-412e-9642-2939c023310f)
+![image](https://github.com/user-attachments/assets/b27d4d97-9812-4e83-87ae-84d8a11240e7)
 
 
 
-![image](https://github.com/user-attachments/assets/1fb43b42-ae99-41f5-858c-0bc54a08c849)
-
-![image](https://github.com/user-attachments/assets/43a68aef-a5a5-4a68-9f77-06f45ade869b)
-
-![image](https://github.com/user-attachments/assets/b9fd7410-da34-4a28-bcc4-301fa970115c)
 
 
 
